@@ -1,0 +1,7 @@
+Laravel 9
+Database sử dụng trên phpmyAdmin
+Tên miền web : http://bangame.test (khởi động laragon)
+Vào hệ quản trị: http://bangame.test/admin/users/login
+Tài khoản hệ quản trị: 
+TK: admin@localhost.com  
+MK: 123456
